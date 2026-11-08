@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "URL の内容を取得して Markdown 化",
+  "author": { "name": "kazuhitogo" },
+  "keywords": ["fetch","url","ページ取得","スクレイプ"]
+}

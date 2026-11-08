@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "brave-search",
+  "version": "1.0.0",
+  "description": "Brave Search で Web・ローカル検索",
+  "author": { "name": "kazuhitogo" },
+  "keywords": ["brave","web検索","検索","search"]
+}

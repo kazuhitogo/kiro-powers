@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "chrome-devtools",
+  "version": "1.0.0",
+  "description": "Chrome DevTools によるブラウザ操作・デバッグ・性能計測・スクリーンショット",
+  "author": { "name": "kazuhitogo" },
+  "keywords": ["chrome","devtools","ブラウザ","screenshot","lighthouse","performance","スクリーンショット"]
+}
